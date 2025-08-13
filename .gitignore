@@ -19,3 +19,15 @@ __pycache__/
 
 # Ignore CSV output
 path_waypoints.csv
+*.tif
+path_waypoints.csv
+cmake-build-*/
+build/
+out/
+.idea/
+__pycache__/
+*.o
+*.obj
+*.so
+*.dll
+*.exe
