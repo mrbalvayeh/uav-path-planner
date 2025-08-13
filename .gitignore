@@ -31,3 +31,4 @@ __pycache__/
 *.so
 *.dll
 *.exe
+DEM_UTM.tif
