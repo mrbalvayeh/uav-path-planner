@@ -1,0 +1,21 @@
+# Ignore build directories
+cmake-build-*/
+build/
+out/
+
+# Ignore CLion project files
+.idea/
+
+# Ignore compiled files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore CSV output
+path_waypoints.csv
